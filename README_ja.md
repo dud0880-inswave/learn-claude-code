@@ -20,7 +20,7 @@
 
 ---
 
-> **[Kode CLI](https://github.com/shareAI-lab/Kode)**、**Claude Code**、**Cursor**、および [Agent Skills Spec](https://github.com/anthropics/agent-skills) をサポートするすべてのエージェントで動作します。
+> **[Kode CLI](https://github.com/shareAI-lab/Kode)**、**Claude Code**、**Cursor**、および [Agent Skills Spec](https://agentskills.io/specification) をサポートするすべてのエージェントで動作します。
 
 <img height="400" alt="demo" src="https://github.com/user-attachments/assets/0e1e31f8-064f-4908-92ce-121e2eb8d453" />
 
@@ -187,7 +187,7 @@ MODEL_ID=claude-sonnet-4-5-20250929  # 任意：モデル選択
 |------------|------|
 | [Kode](https://github.com/shareAI-lab/Kode) | 本番対応のオープンソースエージェントCLI |
 | [shareAI-skills](https://github.com/shareAI-lab/shareAI-skills) | 本番用Skillsコレクション |
-| [Agent Skills Spec](https://github.com/anthropics/agent-skills) | 公式仕様 |
+| [Agent Skills Spec](https://agentskills.io/specification) | 公式仕様 |
 
 ## 設計思想
 

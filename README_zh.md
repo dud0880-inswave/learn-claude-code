@@ -20,7 +20,7 @@
 
 ---
 
-> 兼容 **[Kode CLI](https://github.com/shareAI-lab/Kode)**、**Claude Code**、**Cursor**，以及任何支持 [Agent Skills Spec](https://github.com/anthropics/agent-skills) 的 Agent。
+> 兼容 **[Kode CLI](https://github.com/shareAI-lab/Kode)**、**Claude Code**、**Cursor**，以及任何支持 [Agent Skills Spec](https://agentskills.io/specification) 的 Agent。
 
 <img height="400" alt="demo" src="https://github.com/user-attachments/assets/0e1e31f8-064f-4908-92ce-121e2eb8d453" />
 
@@ -192,7 +192,7 @@ MODEL_ID=claude-sonnet-4-5-20250929  # 可选：模型选择
 |------|------|
 | [Kode](https://github.com/shareAI-lab/Kode) | 生产就绪的开源 Agent CLI |
 | [shareAI-skills](https://github.com/shareAI-lab/shareAI-skills) | 生产 Skills 集合 |
-| [Agent Skills Spec](https://github.com/anthropics/agent-skills) | 官方规范 |
+| [Agent Skills Spec](https://agentskills.io/specification) | 官方规范 |
 
 ## 设计哲学
 

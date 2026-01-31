@@ -20,7 +20,7 @@ Over the past six months, through building and iterating on real agent systems, 
 
 ---
 
-> Works with **[Kode CLI](https://github.com/shareAI-lab/Kode)**, **Claude Code**, **Cursor**, and any agent supporting the [Agent Skills Spec](https://github.com/anthropics/agent-skills).
+> Works with **[Kode CLI](https://github.com/shareAI-lab/Kode)**, **Claude Code**, **Cursor**, and any agent supporting the [Agent Skills Spec](https://agentskills.io/specification).
 
 <img height="400" alt="demo" src="https://github.com/user-attachments/assets/0e1e31f8-064f-4908-92ce-121e2eb8d453" />
 
@@ -187,7 +187,7 @@ MODEL_ID=claude-sonnet-4-5-20250929  # Optional: Model selection
 |------------|-------------|
 | [Kode](https://github.com/shareAI-lab/Kode) | Production-ready open source agent CLI |
 | [shareAI-skills](https://github.com/shareAI-lab/shareAI-skills) | Production skills collection |
-| [Agent Skills Spec](https://github.com/anthropics/agent-skills) | Official specification |
+| [Agent Skills Spec](https://agentskills.io/specification) | Official specification |
 
 ## Philosophy
 
